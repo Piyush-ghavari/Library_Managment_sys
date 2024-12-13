@@ -36,7 +36,7 @@ To run this program, you need:
 
 Here is a screenshot of the program running:
 
-![Library Management Screenshot](path/to/your/screenshot.png)
+
 - welcome
 
 - show book title and ask number to select 
